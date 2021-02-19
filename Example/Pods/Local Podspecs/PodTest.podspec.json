@@ -1,0 +1,22 @@
+{
+  "name": "PodTest",
+  "version": "0.1.0",
+  "summary": "A short description of PodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/situyan/PodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "situyan": "er2010hacker@163.com"
+  },
+  "source": {
+    "git": "https://github.com/situyan/PodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PodTest/Classes/**/*"
+}
