@@ -22,7 +22,7 @@ pod 'PodTest'
 
 ## Author
 
-situyan, hank.shi@chisalsoft.com
+situyan, er2010hacker@163.com
 
 ## License
 

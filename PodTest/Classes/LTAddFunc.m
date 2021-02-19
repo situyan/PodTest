@@ -11,7 +11,7 @@
 
 - (void)testAddA:(NSInteger)a b:(NSInteger)b {
     NSInteger ab = a + b;
-    NSLog(@"测试私有库Pods加法 a + b = %ld", ab);
+    NSLog(@"测试私有库Pods加法 a + b = %ld", (long)ab);
 }
 
 @end
